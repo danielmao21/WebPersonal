@@ -1,0 +1,58 @@
+.card {
+    margin: auto;
+    margin-bottom: 40px;
+    width: 50%;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.card-img-top {
+    height: 30%;
+}
+
+.card-text {
+  
+    font-size: 20px;
+    margin-top: 10px, 0px;
+    font-weight: 700;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: black;
+}
+
+.container-cita {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    width: 90%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    background-color: #ffffff;
+}
+
+.aboutme-dani {
+    width: 50%;
+}
+
+.aboutme-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+    padding: 5%;
+    width: 45%;
+}
+
+p {
+    font-size: 25px;
+}
+
+.phrase {
+    font-family: serif;
+}
+
+.author {
+    font-family: sans-serif;
+    font-weight: bold;
+}

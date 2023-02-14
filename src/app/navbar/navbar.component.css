@@ -1,0 +1,31 @@
+.bg-custom {
+    background-color: #646161;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+  
+}
+
+.navbar-brand {
+    margin-left: 15px;
+    background-color: #646161;
+
+}
+
+.collapse {
+    display: flex;
+    justify-content: space-around;
+    background-color: #646161;
+
+}
+
+li a {
+    font-size: 20px;
+    margin-right: 20px;
+    color: white;
+    font-weight: 600;
+    font-family: Open Sans, sans-serif;
+}
+
+a:hover {
+    border-bottom: 1px solid;
+    background: #b5b6b4;
+}
